@@ -12,7 +12,7 @@
       integrity="sha384-vp86vTRFVJgpjF9jiIGPEEqYqlDwgyBgEF109VFjmqGmIY/Y4HV4d3Gp2irVfcrp"
       crossorigin="anonymous"
     />
-    <link rel="stylesheet" href="css/registro.css" />
+    <link rel="stylesheet" href="registro.css" />
     <title>REGISTRO</title>
   </head>
   <body>
@@ -49,7 +49,7 @@
         <li><a href="#"><ion-icon name="logo-facebook"></ion-icon>INICIAR SESION CON FACEBOOK</a></li>
       </ul>
     <header>
-        <img src="img/logo.jpg" class="logo" width="200px" height="50px">
+        <img src="logo.jpg" class="logo" width="200px" height="50px">
         <div class="righSide">  
             <div class="btns dayNight">
                 
@@ -58,8 +58,8 @@
         </div> 
     </header>
     <section class="main">
-      <video src="movies/wert.mp4" autoplay loop muted type="mp4"></video>
-      <img src="img/vc.jpg" class="ser">
+      <video src="wert.mp4" autoplay loop muted type="mp4"></video>
+      <img src="vc.jpg" class="ser">
       
       <p class="futer">© creator ampuero y richi</p>
       <ul class="sci">
