@@ -8,7 +8,7 @@
 />
    
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/login.css" />
+    <link rel="stylesheet" href="login.css" />
     <title>PURINA</title>
   </head>
   <body>
@@ -61,7 +61,7 @@
         </div>
       </div>
     <header>
-        <img src="img/logo.jpg" class="logo" width="200px" height="50px">
+        <img src="logo.jpg" class="logo" width="200px" height="50px">
         <div class="righSide">  
             <div class="btns dayNight">
                 
@@ -70,8 +70,8 @@
         </div> 
     </header>
     <section class="main">
-      <video src="movies/wert.mp4" autoplay loop muted type="mp4"></video>
-      <img src="img/mask.jpg" class="ser">
+      <video src="wert.mp4" autoplay loop muted type="mp4"></video>
+      <img src="mask.jpg" class="ser">
       
       <p class="futer">© creator ampuero y richi</p>
       <ul class="sci">
